@@ -7,7 +7,8 @@ An end-to-end, **SQL-first** analytics project that turns raw financial datasets
 
 <!-- SCREENSHOT 1 of 5 (hero image): export the finished Executive Summary page and save it as `images/executive-summary-page.png`. Keep the line below. Delete this note once the image is in place. -->
 
-![Executive Summary dashboard page](images/executive-summary-page.png)
+<img width="824" height="412" alt="image" src="https://github.com/user-attachments/assets/d8bcc478-4688-4597-b60e-37357815b7e6" />
+
 
 ---
 
@@ -59,7 +60,8 @@ Each module follows the same pipeline: load unchanged data into a raw table, cle
 Tier sizes: Medium 17,234 · Low 10,949 · High 1,817. The rule-based tiers separate risk cleanly.
 
 <!-- SCREENSHOT 2 of 5: the Credit Risk page of your Power BI report. Save as `images/credit-risk-page.png`. Keep the line below. -->
-![Credit Risk dashboard page](images/credit-risk-page.png)
+<img width="821" height="411" alt="image" src="https://github.com/user-attachments/assets/48870411-aa77-43cf-ba68-ec33137ee280" />
+
 
 ---
 
@@ -110,7 +112,8 @@ Tier sizes: Medium 17,234 · Low 10,949 · High 1,817. The rule-based tiers sepa
 - No fraud was recorded in PAYMENT, DEBIT or CASH_IN.
 
 <!-- SCREENSHOT 3 of 5: the Fraud Detection page. Save as `images/fraud-detection-page.png`. Keep the line below. -->
-![Fraud Detection dashboard page](images/fraud-detection-page.png)
+<img width="816" height="411" alt="image" src="https://github.com/user-attachments/assets/a8e0500f-cbc5-4add-884f-7fd7f28b0372" />
+
 
 ---
 
@@ -147,7 +150,8 @@ Tier sizes: Medium 17,234 · Low 10,949 · High 1,817. The rule-based tiers sepa
 **Limitations:** survivorship bias in the sector list; Communication Services has only 8 stocks; the portfolio is 12 large, liquid stocks, so conclusions are descriptive and not a prediction.
 
 <!-- SCREENSHOT 4 of 5: the Portfolio Performance page. Save as `images/portfolio-performance-page.png`. Keep the line below. -->
-![Portfolio Performance dashboard page](images/portfolio-performance-page.png)
+<img width="816" height="412" alt="image" src="https://github.com/user-attachments/assets/bcec46e8-0b06-4c07-9950-882020896001" />
+
 
 ---
 
@@ -183,7 +187,8 @@ Tier sizes: Medium 17,234 · Low 10,949 · High 1,817. The rule-based tiers sepa
 
 <!-- SCREENSHOT 5 of 5: the Cash Flow page, the finished version. Save as `images/cash-flow-page.png`. Keep the line below. -->
 
-![Cash Flow dashboard page](images/cash-flow-page.png)
+<img width="820" height="413" alt="image" src="https://github.com/user-attachments/assets/592bcd12-ca3d-4fae-8455-b741596643e4" />
+
 
 ---
 
